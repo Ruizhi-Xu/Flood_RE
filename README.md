@@ -1,3 +1,3 @@
 # Flood_RE
 
-Write later
+This repo is created for later disclosure, and inside progress update. 
